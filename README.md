@@ -1,8 +1,10 @@
-# IBC Sample Between Hyperledger Fabric and Cosmos
+# IBC Sample Between Hyperledger Fabric and Cosmos 
 
 This project is a sample for blockchain interoperability between Hyperledger Fabric and Cosmos-based blockchain using [Fabric-IBC](https://github.com/datachainlab/fabric-ibc) and [Relayer](https://github.com/datachainlab/relayer).
 
 As a subject, token transfer using ICS-20 is used.
+
+Fork @ SBIP. 
 
 ## Build
 
