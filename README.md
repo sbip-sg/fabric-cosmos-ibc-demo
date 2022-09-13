@@ -18,20 +18,20 @@ Token transfer can be observed as an end-to-end test.
 To bring up a fabric network and cosmos, and establish an IBC connection between them, execute the following command:
 
 ```
-make setup
+sudo make setup
 ```
 
 Then, run the transfer scenario:
 
 ```
-make transfer
+sudo make transfer
 ```
 
 Here's how to clean up:
 
 ```
-make stop
-make clean
+sudo make stop
+sudo make clean
 ```
 
 ## Fabric
